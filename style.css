@@ -1,0 +1,49 @@
+* {
+
+    font-family: monospace;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #00D1AC;
+
+}
+
+a {
+    color: black;
+    list-style-type: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 3rem;
+    border-right: 1px solid black;
+    padding-right: 1rem;
+}
+
+
+
+.container {}
+
+.topnav {}
+
+.navbar {}
+
+.content>h1 {
+    text-align: center;
+    font-size: 8rem;
+}
+
+.content>p {
+    font-size: 3rem;
+}
+
+figure {
+    font-size: 2rem;
+}
+
+.love {
+    padding-top: 2rem;
+    font-size: 3rem;
+}
